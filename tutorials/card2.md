@@ -45,6 +45,7 @@ ffffffffffffffffffffffffffffff
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -52,6 +53,7 @@ function fancyAlert(arg) {
   }
 }
 ```
+{: .ourClass}
 
 First Header | Second Header
 ------------ | -------------
